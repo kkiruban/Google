@@ -1,0 +1,13 @@
+---
+CommonData:
+ Active_Currencies: ["JPY","USD","GBP","EUR"]
+
+Users:
+ Sheetname: "Users"
+ LastName: "D"
+ FirstName: "E"
+ UserName: "C"
+ Persona: "G"
+ UserStatus: "F"
+ Start_Row: 3
+ File_Path: "D:\\salesforce_projects\\google\\GoogleConfig.xlsx"

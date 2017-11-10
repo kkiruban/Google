@@ -1,0 +1,6 @@
+---
+staging:
+    :url: https://test.salesforce.com
+production:
+    :url: https://login.salesforce.com
+    

@@ -1,0 +1,48 @@
+
+Adminsit:
+ Username: "dsintegration-admin@servicesource.com.sitgoog1p"
+ Password: "srevds123!"
+
+opsmgrsit:
+ Username: "google.opsmgr@servicesource.com.sitgoog1p"
+ Password: "testgoogle123!"
+
+opsrepsit:
+ Username: "google.opsrep@servicesource.com.sitgoog1p"
+ Password: "testgoogle123!"
+
+salesrepsit:
+ Username: "google.salesrep@servicesource.com.sitgoog1p"
+ Password: "testgoogle123!"
+
+salesmgrsit:
+ Username: "google.salesmgr@servicesource.com.sitgoog1p"
+ Password: "testgoogle123!"
+
+salesopssit:
+ Username: "google.salesops@servicesource.com.sitgoog1p"
+ Password: "testgoogle123!"
+
+adminprod:
+ Username: "dsintegration-admin@servicesource.com.google"
+ Password: "srevds123!"
+
+opsmgrprod:
+ Username: "google.opsmgr@servicesource.com.google"
+ Password: "testgoogle123!"
+
+opsrepprod:
+ Username: "google.opsrep@servicesource.com.google"
+ Password: "testgoogle123!"
+
+salesrepprod:
+ Username: "google.salesrep@servicesource.com.google"
+ Password: "testgoogle123!"
+
+salesmgrprod:
+ Username: "google.salesmgr@servicesource.com.google"
+ Password: "testgoogle123!"
+
+salesopsprod:
+ Username: "google.salesops@servicesource.com.google"
+ Password: "testgoogle123!"
